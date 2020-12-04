@@ -36,8 +36,6 @@ body {
 .loading-text {
   font-size: 50px;
   color: white;
-  position: absolute;
-  left: 39%;
 }
 
 .btn {
@@ -47,7 +45,7 @@ body {
   outline: none;
   cursor: pointer;
   position: absolute;
-  bottom: 40px;
+  bottom: 20px;
   background: #fff;
   opacity: 0.7;
   font-family: inherit;
